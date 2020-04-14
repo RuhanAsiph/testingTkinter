@@ -1,3 +1,6 @@
+'''Made a few errors :/ in this program, would love if someone could fix it for me :) 
+Error: unable to delete records. I was trying to delete an entry based on the ID attached to it but it's not working://'''
+
 from tkinter import *
 import sqlite3
 
